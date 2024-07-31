@@ -1,0 +1,7 @@
+id = "project-manager"
+name = "Project manager"
+description = "Manage your projects with a simple configuration file"
+version = "0.0.1"
+schema_version = "1"
+authors = ["Ano anodevfr@gmail.com"]
+repository = ""
